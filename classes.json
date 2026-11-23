@@ -1,0 +1,22 @@
+[
+    {
+        "nome": "guerreiro",
+        "dano_base": 15,
+        "tipo_dano": "fisico"
+    },
+    {
+        "nome": "mago",
+        "dano_base": 25,
+        "tipo_dano": "magico"
+    },
+    {
+        "nome": "paladino",
+        "dano_base": 19,
+        "tipo_dano": "sagrado"
+    },
+    {
+        "nome": "druida",
+        "dano_base": 10,
+        "tipo_dano": "magico"
+    }
+]
