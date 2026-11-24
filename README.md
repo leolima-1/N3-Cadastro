@@ -33,4 +33,5 @@ Ao iniciar, carregar lê o JSON e transforma seu conteúdo em uma lista Python. 
 # Nota
 
 -Caso o número do dano não seja do tipo Int:inteiro, o programa irá ignora-lo e continua para a finalização/alteração do cadastro.
+
 -O programa necessita somente do uso do Python para base do cadstro e Json para o Armazenamento de dados do cadastro.
