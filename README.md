@@ -1,12 +1,10 @@
 # N3-Cadastro
-Alunos: Leonard Yamamoto Lima, João Victor Teixeira / 1 Semestre
+Alunos: Leonardo Yamamoto Lima, João Victor Teixeira / 1 Semestre
 # Atividade N3: criação de cadastro
 
 Aula de Estrutura de dados 
 
-Tema:
-
-# Cadastro de RPG de mesa:
+# Tema: Cadastro de RPG de mesa:
 
 O programa funciona como um pequeno cadastro de classes de RPG, guardadas no arquivo classes.json. Cada classe é representada por um objeto com três campos: nome, dano base e tipo dano. Por exemplo:
 
