@@ -2,7 +2,7 @@
 Alunos: Leonard Yamamoto Lima, João Victor Teixeira / 1 Semestre
 # Atividade N3: criação de cadastro
 
-Aula de estrutura de dados 
+Aula de Estrutura de dados 
 
 Tema:
 
